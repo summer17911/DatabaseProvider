@@ -1,0 +1,1 @@
+include ':app', ':myapplication', ':runtimepermissiontext', ':jsonobject', ':recyclerview_smartlayout'
